@@ -31,6 +31,9 @@ Wie funktioniert Ihre Erweiterung? Was mussten Sie programmieren, was konnten Si
   
    - Vordefinierte Sprachmodelle herunterladen:
      'https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/'
+     
+   - Die Dateien sphinx4-core und sphinx4-data in Sssets kopieren
+     
 
 4. Implementation
 
